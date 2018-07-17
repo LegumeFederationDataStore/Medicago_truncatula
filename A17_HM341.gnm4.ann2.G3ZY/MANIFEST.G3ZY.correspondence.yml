@@ -1,0 +1,4 @@
+#original repository                              renamed
+  Mt4.0v2_genes_20140818_1100.gff3: medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz
+  Mt4.0v2_GenesCDSSeq_20140818_1100.fasta: medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz
+  Mt4.0v2_GenesProteinSeq_20140818_1100.fasta: medtr.A17_HM341.gnm4.ann2.G3ZY.pep.faa.gz
