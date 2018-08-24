@@ -28,15 +28,15 @@ original_file_creation_date: 2015-04-29
 
 local_file_creation_date: 2018-04-07
 
-publication_doi: 10.1186/s12864-017-3654-1
+publication_doi: 10.1186/s12864-017-3971-4
 
 dataset_release_date: 2018-04-13
 
-publication_title: Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes
+publication_title: Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula
 
-contributors: Peng Zhou, Kevin A. T. Silverstein, Thiruvarangan Ramaraj, Joseph Guhlin, Roxanne Denny, Junqi Liu, Andrew D. Farmer, Kelly P. Steele, Robert M. Stupar, Jason R. Miller, Peter Tiffin, Joann Mudge, Nevin D. Young
+contributors: Karen M. Moll, Peng Zhou, Thiruvarangan Ramaraj, Diego Fajardo, Nicholas P. Devitt, Michael J. Sadowsky, Robert M. Stupar, Peter Tiffin, Jason R. Miller, Nevin D. Young, Kevin A. T. Silverstein, Joann Mudge
 
-data_curators: Vivek Krishnakumar
+data_curators: Vivek Krishnakumar, Andrew Farmer
 
 public_access_level: public
 
@@ -44,11 +44,8 @@ license: Open
 
 keywords: none
 
-citations: Zhou P, Silverstein KA, Ramaraj T, Guhlin J, Denny R, Liu J, Farmer AD, Steele KP, Stupar RM, Miller JR, Tiffin P, Mudge J, Young ND. Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes. BMC Genomics. 2017 Mar 27;18(1):261. doi: 10.1186/s12864-017-3654-1.
+citations: Moll KM, Zhou P, Ramaraj T, Fajardo D, Devitt NP, Sadowsky MJ, Stupar RM, Tiffin P, Miller JR, Young ND, Silverstein KAT, Mudge J. Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula. BMC Genomics. 2017 Aug 4;18(1):578. doi: 10.1186/s12864-017-3971-4.
 
 file_transformation: 
-  - test1.txt                    none
-  - test2.txt                    none
-  - test3.txt                    none
 
 changes: 
