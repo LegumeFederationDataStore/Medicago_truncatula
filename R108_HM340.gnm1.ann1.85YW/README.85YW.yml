@@ -49,3 +49,4 @@ citations: Moll KM, Zhou P, Ramaraj T, Fajardo D, Devitt NP, Sadowsky MJ, Stupar
 file_transformation: 
 
 changes: 
+  - 2018-09-15 added extra components of prefixes to fastas (s/medtr.R108_HM340./medtr.R108_HM340.gnm1.ann1./)
