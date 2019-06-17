@@ -1,0 +1,4 @@
+#File name: description
+medtr.jemalong_A17.gnm5.MVZ2.genome_main.fna.gz: Genome assembly: pseudomolecule sequences plus unanchored scaffolds (block compressed bgzip)
+medtr.jemalong_A17.gnm5.MVZ2.genome_main.fna.gz.fai: Index file of genome assembly (SAMtools; faidx)
+medtr.jemalong_A17.gnm5.MVZ2.genome_main.fna.gz.gzi: Genome assembly index for block compression gzi file format

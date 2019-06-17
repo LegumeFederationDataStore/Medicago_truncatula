@@ -1,0 +1,55 @@
+%YAML 1.2
+---
+identifier: MVZ2
+
+provenance: Data in this directory derives from https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/ Downloads sections or https://bbric.toulouse.inra.fr/reference/ws/reference/docid/b7ac16f078359cd236165a24a5da63fe.html
+
+source: https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/
+
+subject: Directory of scaffold assemblies and pseudomolecule assemblies.
+
+related_to: medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+bioproject: PRJNA431767
+
+scientific_name_abbrev: medtr
+
+genotype: jemalong_A17
+
+description: Genome assembly (unplaced contigs and pseudomolecules) for Medicago truncatula (version Mt5.0)
+
+dataset_doi: https://doi.org/10.25794/reference/4l6cescf
+
+genbank_accession: PSQE00000000.1
+
+original_file_creation_date: 2016-11-19
+
+local_file_creation_date: 2019-06-14
+
+publication_doi: https://doi.org/10.1038/s41477-018-0286-7
+
+dataset_release_date: 2019-06-17
+
+publication_title: Whole-genome landscape of Medicago truncatula symbiotic genes.
+
+contributors: Gamas Pascal, Gouzy Jerome, Moreau Sandra, Mayjonade Baptiste
+
+data_curators: Connor Cameron, Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: Mt5.0 PacBio sequencing
+
+citations: Pecrix, Y., Staton, S. E., Sallet, E., Lelandais-Briere, C., Moreau, S., Carrere, S., Blein, T., Jardinaud, M-F., Latrasse, D., Zouine, M., Zahm, M., Kreplak, J., Mayjonade, B., Satge, C., Perez, M., Cauet, S., Marande, W., Chantry-Darmon, C., Lopez-Roques, C., Bouchez, O., Berard, A., Debelle, F., Munos, S., Bendahmane, A., Berges, H., Niebel, A., Buitink, J., Frugier, F., Benhamed, M., Crespi, M., Gouzy, J., Gamas, P. (2018). Whole-genome landscape of Medicago truncatula symbiotic genes. Nature Plants,  4, 1017-1025.
+  
+file_transformation:
+  - Applied DSCensor normalizer to file at https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/downloads/1.6/MtrunA17r5.0-20161119-ANR.fasta.zip creating medtr.jemalong_A17.gnm5.MVZ2.genome_main.fna.gz.  No changes were made to any sequence, just standardized headers.
+
+changes:
+# Free-text notes about changes to this data collection. Begin each line with two spaces, a dash, and a space, and a date string: "  - 2018-03-23"

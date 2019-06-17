@@ -1,0 +1,79 @@
+%YAML 1.2
+---
+identifier: L2RX
+# for this data directory 
+
+provenance: Data in this directory derives from https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/ Downloads sections or https://bbric.toulouse.inra.fr/reference/ws/reference/docid/b7ac16f078359cd236165a24a5da63fe.html
+# Data in this directory derives from bla bla bla. 
+
+source: https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/
+# URI for primary repository 
+
+subject: Directory of scaffold assemblies and pseudomolecule assemblies.
+# Brief free-text description of the main focus of this dataset e.g. genome assembly, genome annotation, transcriptome assembly, gene family set. In the Data Store, this will be used as a summary description of the collection contents.
+
+related_to: medtr.jemalong_A17.gnm5.MVZ2.genome_main.fna.gz
+# For genome annotations, reference the associated genome assembly; for assemblies, reference the annotation(s), etc. 
+
+scientific_name: Medicago truncatula
+# Scientific binomial 
+
+taxid: 3880
+# Genbank taxonomic identifier 
+
+bioproject: PRJNA431767
+# Genbank BioProject ID 
+
+scientific_name_abbrev: medtr
+# Five-letter abbreviation of scientific name: first three of genus, first two of species epithet 
+
+genotype: jemalong A17
+# Genotype name for this data, if applicable 
+
+description: Genome annotations (version Mt5.0-1.6)
+# Free-text description of this data set
+
+dataset_doi: https://doi.org/10.25794/reference/4l6cescf
+# DOI for this data set, if assigned; otherwise "none" 
+
+genbank_accession: PSQE00000000.1
+# GenBank accession for this data set, if assigned; otherwise "none"
+
+original_file_creation_date: 2016-11-19
+# Date (YEAR-MO-DA) of these files at the primary repository, if applicable; otherwise "N/A." Or publication date.
+
+local_file_creation_date: 2019-06-14
+# Date (YEAR-MO-DA) when these files were accessed from the primary repository, if applicable; otherwise "N/A"
+
+publication_doi: https://doi.org/10.1038/s41477-018-0286-7
+# DOI for primary publication, if assigned; otherwise "none" 
+
+dataset_release_date: 2019-06-17
+# for this local, re-hosted repository 
+
+publication_title: Whole-genome landscape of Medicago truncatula symbiotic genes.
+# Title for primary publication 
+
+contributors: Pecrix Yann, Gamas Pascal, Gouzy Jerome, Carrere Sebastien, Sallet Erika, Staton Evan
+# For genome annotations, reference the associated genome assembly; for assemblies, reference the annotation(s), etc. Enter names in comma-separated format, on one line. 
+
+data_curators: Connor Cameron, Andrew Farmer
+# Curators who worked on these files at this repository
+
+public_access_level: public
+# Public or private 
+
+license: open
+# typically, license descriptor and/or URL with usage allowances/restrictions 
+
+keywords: Mt5.0 PacBio sequencing
+# User-supplied keywords or tags 
+
+citations: Pecrix, Y., Staton, S. E., Sallet, E., Lelandais-Briere, C., Moreau, S., Carrere, S., Blein, T., Jardinaud, M-F., Latrasse, D., Zouine, M., Zahm, M., Kreplak, J., Mayjonade, B., Satge, C., Perez, M., Cauet, S., Marande, W., Chantry-Darmon, C., Lopez-Roques, C., Bouchez, O., Berard, A., Debelle, F., Munos, S., Bendahmane, A., Berges, H., Niebel, A., Buitink, J., Frugier, F., Benhamed, M., Crespi, M., Gouzy, J., Gamas, P. (2018). Whole-genome landscape of Medicago truncatula symbiotic genes. Nature Plants,  4, 1017-1025.
+  
+file_transformation:
+# Free-text description of any modifications of files in this directory (or of a given file described by this metadata), relative to original files. Begin each line with two spaces, a dash, and a space: "  - "
+  - Applied DSCensor normalizer to file at https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/downloads/1.6/MtrunA17r5.0-ANR-EGN-r1.6.gff3.zip creating medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.  No changes were made to any feature coordinates or types.  GFF3 is resorted and IDs are prefixed with the standardized prefixing.
+
+changes:
+# Free-text notes about changes to this data collection. Begin each line with two spaces, a dash, and a space, and a date string: "  - 2018-03-23"
