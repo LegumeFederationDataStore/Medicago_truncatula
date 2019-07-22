@@ -1,5 +1,8 @@
-9f68b44740b846337e04d2d742da5189 MANIFEST.55W4.correspondence.yml
-54bda1bb730075586fd5414eb1d39b3b MANIFEST.55W4.descriptions.yml
+38ded9b23373968b7b60704f48093da1 MANIFEST.55W4.correspondence.yml
+64d21ff9704d65af4da9cfea8258ea11 MANIFEST.55W4.descriptions.yml
 40152177aa76f250dc99477b4de5204f README.55W4.yml
 6db952e9d76ecd53697a74e9c0462ca4 medtr.HM095.gnm1.ann1.55W4.gene_models_main.gff3.gz
 9113710843ab0914f93b37e42c21435d medtr.HM095.gnm1.ann1.55W4.gene_models_main.gff3.gz.tbi
+ed1d37dde62f5dcb24ae87b570dbf13d medtr.HM095.gnm1.ann1.55W4.protein.faa.gz
+a59528798a6f7b47291f706f7e4dba18 medtr.HM095.gnm1.ann1.55W4.protein.faa.gz.fai
+8414d90e08d1d854970de039fd7eb17f medtr.HM095.gnm1.ann1.55W4.protein.faa.gz.gzi

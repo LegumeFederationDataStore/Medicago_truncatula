@@ -1,9 +1,11 @@
-bfa809a24d752e7a32401d4c20996eda medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
-471531f87a66886489758e9324039636 medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.tbi
+076b3b920b738de228a820d0630a36d3 MANIFEST.L2RX.correspondence.yml
+8808109bcde7fed14015a578ec991c0b MANIFEST.L2RX.descriptions.yml
 5b18b132a9305f9785e0e22ad5620a0c README.L2RX.yml
 a95baeead01cc243aede689339189755 medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds.fna.gz
 1965636140d8f35af2bfdc2ba43be91c medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds.fna.gz.fai
 f953e5ee3778d29aac9a5c795833f2c4 medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds.fna.gz.gzi
+bfa809a24d752e7a32401d4c20996eda medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
+471531f87a66886489758e9324039636 medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.tbi
 6d3c1af92ee3b57790668b58d70e693d medtr.jemalong_A17.gnm5.ann1_6.L2RX.mrna.fna.gz
 27bd4c80d7dc1751d41c1e2a2a576ab2 medtr.jemalong_A17.gnm5.ann1_6.L2RX.mrna.fna.gz.fai
 c408d0d9742c37cedcf41db14bb525de medtr.jemalong_A17.gnm5.ann1_6.L2RX.mrna.fna.gz.gzi

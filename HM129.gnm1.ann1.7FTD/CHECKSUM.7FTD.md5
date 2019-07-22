@@ -1,5 +1,8 @@
-b6f6fca0635abbddd95417f546f7847d MANIFEST.7FTD.correspondence.yml
-b1a225a6eeb67186ee48786213b04f48 MANIFEST.7FTD.descriptions.yml
+4bf082faaaa43724dc7909fe46a5e610 MANIFEST.7FTD.correspondence.yml
+3c997ce3966056046ddf229ed5ed7836 MANIFEST.7FTD.descriptions.yml
 6058414c4f2fae598f6fede1c8fda9bc README.7FTD.yml
 8b5c9843230b34a64f55c8c0afcf4bdc medtr.HM129.gnm1.ann1.7FTD.gene_models_main.gff3.gz
 37784b239a4b0a6d59f9f603c97de507 medtr.HM129.gnm1.ann1.7FTD.gene_models_main.gff3.gz.tbi
+d9b2de2755ccd4a2dd79a4beba1541cc medtr.HM129.gnm1.ann1.7FTD.protein.faa.gz
+1d59a872fa48df0187b2948856cc77cc medtr.HM129.gnm1.ann1.7FTD.protein.faa.gz.fai
+915c1f6908de6abfb7cf1b9830557a9c medtr.HM129.gnm1.ann1.7FTD.protein.faa.gz.gzi

@@ -1,5 +1,8 @@
-dac7d2d69374fe9eea1dd2271b374314 MANIFEST.2XTB.correspondence.yml
-0aafab11a55733f75244b410e81fa2e7 MANIFEST.2XTB.descriptions.yml
+cf899c18d14a0aaf7a59b405bb6a381f MANIFEST.2XTB.correspondence.yml
+a78adb4ce9e37503803efc28372a4908 MANIFEST.2XTB.descriptions.yml
 a48e1984efc2f9dfe43b02d6d06d02fe README.2XTB.yml
 771bfefd06eb9c56d6accc61755de985 medtr.HM004.gnm1.ann1.2XTB.gene_models_main.gff3.gz
 cd9b098f1657476d50ce0a77b8a0dfb1 medtr.HM004.gnm1.ann1.2XTB.gene_models_main.gff3.gz.tbi
+ae2ea0b0f9e5b0d7e8d07e82c5406091 medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz
+24c7aabf6caa8f1ebe11ce0034680b27 medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz.fai
+31a31e182a749ae44f066b9d5379da0f medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz.gzi

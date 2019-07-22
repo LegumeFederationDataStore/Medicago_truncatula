@@ -1,5 +1,8 @@
-fb1256a90044c5c690ce6232b024e99b MANIFEST.GWRX.correspondence.yml
-bc10b299172b32efcc6a936740e79376 MANIFEST.GWRX.descriptions.yml
+8bb47c849573574e8c716a59518bd51c MANIFEST.GWRX.correspondence.yml
+30364a89be73dc0d11a519da9279275f MANIFEST.GWRX.descriptions.yml
 29cf6fd5a1696eb2d0dc7698d93f29b1 README.GWRX.yml
 291364b1cfa37d64fbb2b8eccf000dff medtr.HM050.gnm1.ann1.GWRX.gene_models_main.gff3.gz
 fc52fcfe21cce14a3bb389911ce15046 medtr.HM050.gnm1.ann1.GWRX.gene_models_main.gff3.gz.tbi
+053036c96fce9e047dc3dcaa4fa229bc medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz
+6659a64869039724d46996d15de26a0c medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz.fai
+728a18a1bf3762a320d514f9f5e7aece medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz.gzi

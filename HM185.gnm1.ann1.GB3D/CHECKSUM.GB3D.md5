@@ -1,5 +1,8 @@
-d0bd45af8604b70f2c6daf58adad9d95 MANIFEST.GB3D.correspondence.yml
-6025528cc0ddaafe02e7545fad975d41 MANIFEST.GB3D.descriptions.yml
+a5527d401362fac996a026f86295812b MANIFEST.GB3D.correspondence.yml
+cd390328fbffd2eb5b438a5946744beb MANIFEST.GB3D.descriptions.yml
 0d075ea613465b923abb569f5b58b96e README.GB3D.yml
 c75b34158d826ed858967d2b3f69283c medtr.HM185.gnm1.ann1.GB3D.gene_models_main.gff3.gz
 dfad8d21eb7cc844d75631c25ea6829a medtr.HM185.gnm1.ann1.GB3D.gene_models_main.gff3.gz.tbi
+d4893dee11deea398c994fa4c48b2f44 medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz
+fc64bc4e90ebb7bcff03d0383c363c0d medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz.fai
+72d1509c0b8514c5e5a2b8f3f57d461f medtr.HM185.gnm1.ann1.GB3D.protein.faa.gz.gzi

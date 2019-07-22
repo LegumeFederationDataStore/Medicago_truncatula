@@ -1,2 +1,3 @@
 # filename_in_this_repository: description
 medtr.HM056.gnm1.ann1.CHP6.gene_models_main.gff3.gz: Gene models, in GFF format
+medtr.HM056.gnm1.ann1.CHP6.protein.faa.gz : peptide translations generated from gff3 file with gffread

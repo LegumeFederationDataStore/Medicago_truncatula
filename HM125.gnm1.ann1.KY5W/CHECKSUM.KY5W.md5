@@ -1,5 +1,8 @@
-872d9783935c4cb4936e03d64870cae9 MANIFEST.KY5W.correspondence.yml
-d9841d871a56c53e7d75f4f440c868ab MANIFEST.KY5W.descriptions.yml
+018df496065884a65014b977862398dd MANIFEST.KY5W.correspondence.yml
+864d6c72d39944c733fd1bbeefc6f2fb MANIFEST.KY5W.descriptions.yml
 be9b90fec382215098a361754b27f5f4 README.KY5W.yml
 ad699fa523e66cba19cdea10859b271d medtr.HM125.gnm1.ann1.KY5W.gene_models_main.gff3.gz
 2bcd0280d5e52c5027d3ddf6da099a05 medtr.HM125.gnm1.ann1.KY5W.gene_models_main.gff3.gz.tbi
+58f7aa1a23d3a718e300bc4ba3211e27 medtr.HM125.gnm1.ann1.KY5W.protein.faa.gz
+82cd950c349d78494251ca35aae0054f medtr.HM125.gnm1.ann1.KY5W.protein.faa.gz.fai
+6583fe57351cae04da9384a5e513aeda medtr.HM125.gnm1.ann1.KY5W.protein.faa.gz.gzi

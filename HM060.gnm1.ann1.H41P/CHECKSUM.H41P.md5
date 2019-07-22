@@ -1,5 +1,8 @@
-4ce99d76133fe959b3b30b7cfa68329e MANIFEST.H41P.correspondence.yml
-f16a9d37a4eda1125f81aa3a69f866b8 MANIFEST.H41P.descriptions.yml
+ac09d40fc98446e0ca81bed185f6ec3c MANIFEST.H41P.correspondence.yml
+78ee58a64113ecf5bfce5057dae91cae MANIFEST.H41P.descriptions.yml
 2fe8c516eb83eca73aed147b84339416 README.H41P.yml
 3c817bea2fd3e2125a0916a3f927b504 medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz
 319117e3639924bd56d9ee955f79c96a medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz.tbi
+25df43a97b4981bff434ca4b9cb88b3d medtr.HM060.gnm1.ann1.H41P.protein.faa.gz
+39f756db75b6d79c16c589e5dc6152bf medtr.HM060.gnm1.ann1.H41P.protein.faa.gz.fai
+fb0d982c99552a8339dc11c9b1a4632c medtr.HM060.gnm1.ann1.H41P.protein.faa.gz.gzi
