@@ -1,6 +1,8 @@
 %YAML 1.2
 ---
 medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz: coding sequence
+medtr.R108_HM340.gnm1.ann1.85YW.cds_primaryTranscript.fna: coding sequence - primary transcript
 medtr.R108_HM340.gnm1.ann1.85YW.gene_models_main.gff3.gz: gene models
 medtr.R108_HM340.gnm1.ann1.85YW.mrna.fna.gz: messenger RNA sequence
 medtr.R108_HM340.gnm1.ann1.85YW.protein.faa.gz: protein sequence
+medtr.R108_HM340.gnm1.ann1.85YW.protein.faa.gz: protein sequence - primary transcript

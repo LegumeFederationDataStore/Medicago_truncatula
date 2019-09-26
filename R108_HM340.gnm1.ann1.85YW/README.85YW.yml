@@ -53,4 +53,5 @@ file_transformation:
 changes: 
   - 2018-09-15 added extra components of prefixes to fastas (s/medtr.R108_HM340./medtr.R108_HM340.gnm1.ann1./)
   - 2019-07-22 replaced "pep" files with "protein" files to conform to naming standards
-  - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread.
+  - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread
+  - 2019-09-26 Added cds_primaryTranscript, corresponding with protein_primaryTranscript

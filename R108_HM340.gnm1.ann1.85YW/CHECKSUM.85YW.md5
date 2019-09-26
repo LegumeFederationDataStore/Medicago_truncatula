@@ -1,9 +1,12 @@
-77d5f654c82349097b30025e54354056 MANIFEST.85YW.correspondence.yml
-416a2a9246afdcaf01032fb6afd8ddb9 MANIFEST.85YW.descriptions.yml
-06604201e0aa927f288d60082aae6586 README.85YW.yml
+9cee8292f2d177869b48467977a9f0c8 MANIFEST.85YW.correspondence.yml
+899bbb65e8428cdbb629b33ef43eb95c MANIFEST.85YW.descriptions.yml
+2b88ce12016870b993e0836189737cd4 README.85YW.yml
 ec184d1016f580c5ed80a57cf3358b76 medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz
 e3134886c60a91d67bdcb4e0fee465b5 medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz.fai
 fe6d6009a5aafad8313a1d950b661a20 medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz.gzi
+d2123f9778e2b517709ca5d33a0b40d2 medtr.R108_HM340.gnm1.ann1.85YW.cds_primaryTranscript.fna.gz
+0e9f6339ded7a3ce8ff2c8dd7a938fe2 medtr.R108_HM340.gnm1.ann1.85YW.cds_primaryTranscript.fna.gz.fai
+db3dd5d222cee79d47a525c4c2b18991 medtr.R108_HM340.gnm1.ann1.85YW.cds_primaryTranscript.fna.gz.gzi
 9c59cc9c7ef4657563130c95a19101da medtr.R108_HM340.gnm1.ann1.85YW.gene_models_main.gff3.gz
 321a7a93bddc2fdfffc265221a232922 medtr.R108_HM340.gnm1.ann1.85YW.gene_models_main.gff3.gz.tbi
 448c7a049adf0cd36f2243a5eb6ca97a medtr.R108_HM340.gnm1.ann1.85YW.mrna.fna.gz

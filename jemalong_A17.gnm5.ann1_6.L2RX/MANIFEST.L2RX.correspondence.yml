@@ -1,5 +1,9 @@
-#from https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/        renamed
-MtrunA17r5.0-ANR-EGN-r1.6.gff3.zip: medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
-MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.cds.fasta: medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds.fna.gz
-MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.prot.fasta: medtr.jemalong_A17.gnm5.ann1_6.L2RX.protein.faa.gz
-MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.mrna.fasta: medtr.jemalong_A17.gnm5.ann1_6.L2RX.mRNA.fna.gz
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz: MtrunA17r5.0-ANR-EGN-r1.6.gff3.zip
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds.fna.gz:     MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.cds.fasta
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.cds_primaryTranscript.fna.gz: none
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.protein.faa.gz: MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.prot.fasta
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.protein_primaryTranscript.faa.gz: none
+medtr.jemalong_A17.gnm5.ann1_6.L2RX.mRNA.fna.gz:    MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.mrna.fasta

@@ -52,4 +52,5 @@ file_transformation:
   - Applied DSCensor normalizer to file at https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/downloads/1.6/MtrunA17r5.0-ANR-EGN-r1.6.gff3.zip creating medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.  No changes were made to any feature coordinates or types.  GFF3 is resorted and IDs are prefixed with the standardized prefixing.
 
 changes:
-  - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread.
+  - 2019-09-26 Added fasta files for cds, mrna, and protein, derived from gff using gffread
+  - 2019-09-26 Added cds_primaryTranscript, corresponding with protein_primaryTranscript

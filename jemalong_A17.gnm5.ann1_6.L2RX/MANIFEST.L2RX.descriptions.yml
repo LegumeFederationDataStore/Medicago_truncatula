@@ -1,3 +1,4 @@
 #File name: description
 medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz: "Block compressed (bgzip) GFF3 file containing the following feature types: CDS,LTR_retrotransposon,RR_tract,TRIM_retrotransposon,exon,five_prime_UTR,gene,helitron,inverted_repeat,long_terminal_repeat,mRNA,miRNA,ncRNA,non_LTR_retrotransposon,pre_miRNA,primer_binding_site,protein_match,rRNA,repeat_region,tRNA,target_site_duplication,terminal_inverted_repeat,terminal_inverted_repeat_element,three_prime_UTR"
 medtr.jemalong_A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.tbi: tabix index of block compressed GFF3 file
+
