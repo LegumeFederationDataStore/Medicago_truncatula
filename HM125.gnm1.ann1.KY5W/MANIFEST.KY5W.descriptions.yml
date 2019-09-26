@@ -1,3 +1,6 @@
-# filename_in_this_repository: description
-medtr.HM125.gnm1.ann1.KY5W.gene_models_main.gff3.gz: Gene models, in GFF format
-medtr.HM125.gnm1.ann1.KY5W.protein.faa.gz : peptide translations generated from gff3 file with gffread
+%YAML 1.2
+---
+medtr.HM125.gnm1.ann1.KY5W.cds.fna.gz: coding sequence
+medtr.HM125.gnm1.ann1.KY5W.gene_models_main.gff3.gz: gene models
+medtr.HM125.gnm1.ann1.KY5W.mrna.fna.gz: messenger RNA sequence
+medtr.HM125.gnm1.ann1.KY5W.protein.faa.gz: protein sequence

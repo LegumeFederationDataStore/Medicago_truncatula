@@ -1,2 +1,7 @@
+%YAML 1.2
+---
 # filename_in_this_repository: previous_name
 medtr.HM185.gnm1.ann1.GB3D.gene_models_main.gff3.gz: medtr.HM185.v1.gff
+derived_from_gff: medtr.HM185.gnm1.ann1.GB3D.cds.fna
+derived_from_gff: medtr.HM185.gnm1.ann1.GB3D.mrna.fna
+derived_from_gff: medtr.HM185.gnm1.ann1.GB3D.protein.faa

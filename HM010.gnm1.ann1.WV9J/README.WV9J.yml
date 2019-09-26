@@ -1,3 +1,5 @@
+%YAML 1.2
+---
 identifier: WV9J
 
 provenance: Data in this directory derives from the NSF-funded Medicago HapMap project; project website: http://www.medicagohapmap.org
@@ -47,8 +49,8 @@ keywords: none
 citations: Zhou P, Silverstein KA, Ramaraj T, Guhlin J, Denny R, Liu J, Farmer AD, Steele KP, Stupar RM, Miller JR, Tiffin P, Mudge J, Young ND. Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes. BMC Genomics. 2017 Mar 27;18(1):261. doi: 10.1186/s12864-017-3654-1.
 
 file_transformation: 
-  - test1.txt                    none
   - test2.txt                    none
   - test3.txt                    none
 
 changes: 
+  - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread.

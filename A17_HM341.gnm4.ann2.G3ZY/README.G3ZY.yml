@@ -1,3 +1,5 @@
+%YAML 1.2
+---
 identifier: G3ZY
 
 provenance: The files in this directory originated from http://www.medicagogenome.org, from the Plant Genomics Lab of Prof. Christopher D. Town. The http://www.medicagogenome.org site is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
@@ -46,3 +48,4 @@ citations: Tang, H., Krishnakumar, V., Bidwell, S., Rosen, B., Chan, A., Zhou, S
 file_transformation: 
 changes: 
   - 2018-04-24 Added MANIFEST files
+  - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread.

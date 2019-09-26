@@ -1,5 +1,6 @@
-# filename_in_this_repository: description
-medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz: GFF file of genes, transposable element genes and non-coding genes (tRNAs)
-medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz.tbi
-medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz: Coding sequence of predicted genes
-medtr.A17_HM341.gnm4.ann2.G3ZY.pep.faa.gz: Protein sequence of predicted genes
+%YAML 1.2
+---
+medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz: coding sequence
+medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz: gene models
+medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz: messenger RNA sequence
+medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz: protein sequence
