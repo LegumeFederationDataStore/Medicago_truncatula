@@ -49,3 +49,4 @@ file_transformation:
 changes: 
   - 2018-04-24 Added MANIFEST files
   - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread.
+  - 2020-10-02 Added gene assignment files

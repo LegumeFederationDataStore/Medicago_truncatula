@@ -55,3 +55,4 @@ changes:
   - 2019-07-22 replaced "pep" files with "protein" files to conform to naming standards
   - 2019-09-25 Added fasta files for cds, mrna, and protein, derived from gff using gffread
   - 2019-09-26 Added cds_primaryTranscript, corresponding with protein_primaryTranscript
+  - 2020-10-02 Added gene family assignment files

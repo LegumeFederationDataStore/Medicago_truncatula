@@ -54,3 +54,4 @@ file_transformation:
 changes:
   - 2019-09-26 Added fasta files for cds, mrna, and protein, derived from gff using gffread
   - 2019-09-26 Added cds_primaryTranscript, corresponding with protein_primaryTranscript
+  - 2020-10-02 Added gene family assignment files
