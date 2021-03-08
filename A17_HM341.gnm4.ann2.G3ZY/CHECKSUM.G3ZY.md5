@@ -1,10 +1,10 @@
 22dd551111e9b1c51b25aa1bd77f49c9 ./medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz.gzi
 10bc0b7c81bd79f9c8fadc2c2ce6d95a ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz
 d41d8cd98f00b204e9800998ecf8427e ./CHECKSUM.G3ZY.md5
+4422b8caf07edd43fead92bd88536c2f ./medtr.A17_HM341.gnm4.ann2.G3ZY.legfed_v1_0.M65K.gfa.tsv.gz
 17c28387a408faa7d1a0a2c3b95bc003 ./medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz.gzi
 aa0e7a1aca66567d23ec854c0bf1e24c ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz.fai
 2a64ed84de329dd7d623c763a7e7eb8b ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz.gzi
-54d530b9e04cf61a10bf969209ee10f9 ./.nfs.8c6b8dd4.ffffac164.4
 f2f32d30426a659976fd1db12501a85f ./medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz.tbi
 01d51265a8a03c9194a82df7e06c604a ./medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz
 5db7d3b38af9bdee7609cb3d5da95147 ./MANIFEST.G3ZY.correspondence.yml
@@ -15,10 +15,11 @@ e3414922ded97191d7ee0169ffa01317 ./medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primar
 7241c4e13347434d6a7c645ff2a516af ./medtr.A17_HM341.gnm4.ann2.G3ZY.phytozome_10_2.HFNR.gfa.tsv.gz
 71d1662ee2504b46e24df2e0119e7d7f ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primaryTranscript.fna.gz.fai
 99cf9310a28e4896c24cc3784a708171 ./medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz
+5d34d4d5d8544228a448808617bf35d6 ./busco/medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz_busco.txt
+53f14852a98b0955738f035a261fc049 ./busco/medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primaryTranscript.faa.gz_busco.txt
 93e3cace57ec45999d3b04911251a0ad ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz.gzi
 cf176b5aac5066fc8900615e65024405 ./medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz.fai
 62d651cf14db15b44cbebfcbaa070a69 ./MANIFEST.G3ZY.descriptions.yml
-4422b8caf07edd43fead92bd88536c2f ./medtr.A17_HM341.gnm4.ann2.G3ZY.legfed_v1_0.legfed_v1_0.M65K.gfa.tsv.gz
 e26e063e3a6a27b78b65a6440a5eec86 ./medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz.fai
 5b13801270b62806f4915ef9b9523ebf ./medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz
 3abbc4294e03ddcc64fd82ca3236fc58 ./medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz
